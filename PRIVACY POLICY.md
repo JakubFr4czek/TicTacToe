@@ -4,7 +4,7 @@ This is the privacy policy for "TicTacToe: 2 players" game.
 
 I hereby state, to the best of my knowledge and belief, that
 I have not programmed this app to collect any personally identifiable information.
-All data (app preferences (like theme) and alarms) created by the user is stored
+All data (app preferences) created by the user is stored
 locally in user's device only, and can be simply erased by clearing the app's
 data or uninstalling it. No analytics software is present in the app either.
 
